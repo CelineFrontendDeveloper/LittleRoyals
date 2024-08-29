@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LittleRoyals/static/css/main.6c7b9e87.css",
+    "main.js": "/LittleRoyals/static/js/main.500a12b5.js",
+    "static/js/453.5e560239.chunk.js": "/LittleRoyals/static/js/453.5e560239.chunk.js",
+    "index.html": "/LittleRoyals/index.html",
+    "main.6c7b9e87.css.map": "/LittleRoyals/static/css/main.6c7b9e87.css.map",
+    "main.500a12b5.js.map": "/LittleRoyals/static/js/main.500a12b5.js.map",
+    "453.5e560239.chunk.js.map": "/LittleRoyals/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c7b9e87.css",
+    "static/js/main.500a12b5.js"
+  ]
+}
